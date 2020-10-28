@@ -1,0 +1,7 @@
+Flask>=1.0,<=1.1.2
+Flask-SQLAlchemy
+pyodbc
+SQLAlchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+Flask-RESTful
